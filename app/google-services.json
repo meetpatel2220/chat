@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "782930518736",
+    "firebase_url": "https://chatting-house.firebaseio.com",
+    "project_id": "chatting-house",
+    "storage_bucket": "chatting-house.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782930518736:android:c7739e814626366e9334d5",
+        "android_client_info": {
+          "package_name": "com.meet.chattinghouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782930518736-m1t2o24opsommmpg7kd4a079q3qclcte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meet.chattinghouse",
+            "certificate_hash": "bb0c6984879823cee6e869cd2d992ce8387032b9"
+          }
+        },
+        {
+          "client_id": "782930518736-98mu3cjdoormrvi8q0mfk5msgmv1l71e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5cyzG7hW38r2XiPyINQ8OEp-x9ymNx88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782930518736-98mu3cjdoormrvi8q0mfk5msgmv1l71e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
